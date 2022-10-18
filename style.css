@@ -20,6 +20,7 @@ body {
 }
 
 .grid-items {
+  position:relative;
   border: 0.1rem solid gray;
   font-size: 2rem;
   background-color: white;
@@ -30,7 +31,7 @@ body {
 }
 
 .prompt {
-  position: relative;
+  position: absolute;
   top: 0%;
   left: 0%;
 }

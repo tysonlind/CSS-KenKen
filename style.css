@@ -21,7 +21,7 @@ body {
 
 .grid-items {
   position:relative;
-  border: 0.1rem solid gray;
+  border: 0.1rem solid black;
   font-size: 2rem;
   background-color: white;
 }
